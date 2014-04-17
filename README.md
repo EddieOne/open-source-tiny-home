@@ -11,6 +11,8 @@ The structure is not a mobile home and I made efforts to make a tiny home that d
 
 This design does not yet include any windows. Ideally, it would be great to have required building materials before starting construction based on the modeling.
 
+Additionally the roof, storage, and placement of utilites is still not done. My plan for the roof is a box made of 1x4 lumber, fastened to the top of the house with maybe a 1 ft overhang.
+
 I'm giving away this home plan for free. Other tiny home plans will cost you upwards of $1,000 USD. Please consider donating contributions and money to further the project.
 
 Enjoy! Modeled using Microsoft Visio 2010 and Sketchup.
