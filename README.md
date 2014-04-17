@@ -1,4 +1,12 @@
-open-source-tiny-home
+Open Source Tiny House
 =====================
 
-A 198 sq ft tiny home design.
+The home is 198 sq/ft not including the loft. The idea was to limit a home design based on a maximum 200 sq/ft design. 
+
+The structure is not a mobile home and I made efforts to make a tiny home that didn't look like a mobile trailer. The bedroom / office is sectioned off which reduces space considerably but offers nice separation.
+
+This design does not yet include any windows. Ideally, it would be great to have required building materials before starting construction based on the modeling.
+
+I'm giving away this home plan for free. Other tiny home plans will cost you upwards of $1,000 USD. Please consider donating contributions and money to further the project.
+
+Enjoy! Modeled using Microsoft Visio 2010 and Sketchup.
