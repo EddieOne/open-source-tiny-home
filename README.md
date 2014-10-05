@@ -17,12 +17,6 @@ To improve functionality, space was considered for utilities, washer and/or drye
 
 As always, this project is open source and free to use with attribution. We would like to continue making professional free house plans available while other companies charges a minimum of $1000 a plan. Please consider contributing your time, wisdom, ideas, or resources. Also, star this project on github so more people can find it.
 
-Software used:
-Microsoft Visio
-Sketchup 8
-Maxwell render
+Software used: Microsoft Visio 2010, Sketchup 8, Maxwell render
 
-Special Thanks:
-tinyhouseblog.com
-Solar Cabin
-Kolbe window models
+Special Thanks: tinyhouseblog.com, Solar Cabin (youtube), Kolbe window models
