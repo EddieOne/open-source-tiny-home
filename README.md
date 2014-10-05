@@ -1,19 +1,28 @@
-Open Source Tiny House
+Open Source Tiny House V2
 =====================
 
-The home is 198 sq/ft not including the loft. A simple design was used to keep costs down to a minimum. The idea was to create a tiny house design that was near the lowest cost possible. 
+![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/front.jpg)
 
-The front of the house is 13 feet tall and has long windows to let in natural lighting. The back of the house is 11 feet tall and has one high window for the bathroom and small window in the kitchen.
+![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/living.jpg)
 
-In the kitchen / living area, the ceiling height is kept high to give the impression of a big space. The room has an average ceiling height of 9 feet to accommodate the loft. Both areas can fit a queen sized mattress.
+![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/sleeping.jpg)
 
-The wall dividing the room of the living space is optional; the space could be used as a studio. The bathroom has room for a shower, toilet, sink, and utilities. The kitchen is designed with a half-height refrigerator and enough room is available for half width dishwasher and a full cooking range. It might be possible to fit a 38” washer dryer combo into the bedroom with a queen mattress. 
+![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/back.jpg)
 
+![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/layout.jpg)
 
-![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/preview.jpg)
+The goal of the second version of the open source tiny house was to make a more practical home. Both design and function were improved so the house would be livable and have resale value. The square footage for V2 is 308 + 63 for the loft. The new revision was designed from the inside out and now comes with framing blueprints. We researched building codes in North America and the house should be within building limits or close to.
 
-![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/layout.jpg)
+To improve functionality, space was considered for utilities, washer and/or dryer, dish washing machine, and a food pantry. The bedroom and loft were kept close to the same size having just enough room for a queen size bed. Some additional length was added to the sleeping areas for storage or a television. Most of the additional space compared to the old version adds to the kitchen and living area. The kitchen / living room and bathroom still have the tall ceilings for a lot of vertical space. 
 
-This is an open source home that can be forked on github and modified by an architect. Similar designs will cost upwards of $1,000. Please consider contributing to the design or donating funds for a more accurate model and future open source home designs.
+As always, this project is open source and free to use with attribution. We would like to continue making professional free house plans available while other companies charges a minimum of $1000 a plan. Please consider contributing your time, wisdom, ideas, or resources. Also, star this project on github so more people can find it.
 
-Enjoy! Modeled using Microsoft Visio 2010 and Sketchup.
+Software used:
+Microsoft Visio
+Sketchup 8
+Maxwell render
+
+Special Thanks:
+tinyhouseblog.com
+Solar Cabin
+Kolbe window models
