@@ -20,6 +20,9 @@ As always, this project is open source and free to use with attribution. We woul
 Software used: Microsoft Visio 2010, Sketchup 8, Maxwell render
 
 Contributors: 
+
 	http://tinyhouseblog.com/
+	
 	http://www.simplesolarhomesteading.com/
+	
 	http://www.kolbe-kolbe.com/
