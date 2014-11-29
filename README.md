@@ -19,4 +19,7 @@ As always, this project is open source and free to use with attribution. We woul
 
 Software used: Microsoft Visio 2010, Sketchup 8, Maxwell render
 
-Special Thanks: tinyhouseblog.com, Solar Cabin (youtube), Kolbe window models
+Contributors: 
+	http://tinyhouseblog.com/
+	http://www.simplesolarhomesteading.com/
+	http://www.kolbe-kolbe.com/
