@@ -1,8 +1,6 @@
 Open Source Tiny House V2
 =====================
 
-[![Join the chat at https://gitter.im/EddieOne/open-source-tiny-home](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EddieOne/open-source-tiny-home?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/front.jpg)
 
 ![alt tag](https://raw.githubusercontent.com/EddieOne/open-source-tiny-home/master/v2/living.jpg)
